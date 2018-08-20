@@ -4328,13 +4328,13 @@ msgstr "Configuration storage"
 
 #: libraries/classes/Config/Descriptions.php:337
 msgid ""
-"Configure phpMyAdmin configuration storage to gain access to additional "
-"features, see [doc@linked-tables]phpMyAdmin configuration storage[/doc] in "
-"documentation."
+'Configure phpMyAdmin configuration storage to gain access to additional '
+'features, see [doc@linked-tables]phpMyAdmin configuration storage[/doc] in '
+'documentation.'
 msgstr ""
-"Configure phpMyAdmin configuration storage to gain access to additional "
-"features, see [doc@linked-tables]phpMyAdmin configuration storage[/doc] in "
-"documentation."
+"Configure phpMyAdmin database to gain access to additional features, see "
+"[a@../Documentation.html#linked-tables]linked-tables infrastructure[/a] in "
+"documentation"
 
 #: libraries/classes/Config/Descriptions.php:341
 msgid "Changes tracking"
